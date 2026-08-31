@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sagar Dhami 👋</h1>
+<h3 align="center">Full-Stack Developer · Product Builder</h3>
 
-<!--
-**Sagar9980/Sagar9980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I love building things from scratch, turning ideas into products, and solving problems that make me think.<br/>
+I care about simplicity, great user experiences, clean engineering, and shipping.
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Things I've Worked On
+
+- **[Lexa](https://lexa.sagardhami.com)** 
+- **[Reviewee](https://reviewee.sagardhami.com)** 
+- **[AceHR](https://acehr.sagardhami.com)** 
+- **[Locale Letter](https://localeletter.sagardhami.com)** 
+
+<br/>
+
+## 🔗 Find Me
+
+<p>
+  <a href="https://sagardhami.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sagar-dhami-07b9751bb">LinkedIn</a> ·
+  <a href="https://x.com/SagarDhami95">X</a>
+</p>
